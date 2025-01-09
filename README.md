@@ -1,5 +1,14 @@
 # CodeIgniter 4 Application Starter
 
+## Mohammad Isa Widianto NPM 714240013
+
+# Tampilan Dashboard
+![Screenshot (63)](https://github.com/user-attachments/assets/874b2ae6-bd7e-466c-9d01-dbac193cc456)
+
+# Database
+![Screenshot (64)](https://github.com/user-attachments/assets/ac2ef5fd-6565-4e51-9c02-ca87491facf2)
+
+
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
